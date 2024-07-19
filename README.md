@@ -185,8 +185,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## 📧 Contact
 
--   [Email](mailto:shokhrukhbekdev@gmail.com)
--   [GitHub](https://github.com/ShokhrukhbekYuldoshev)
+-   [Email](mailto:kush.rajpal.21@gmail.com)
+-   [GitHub](https://github.com/kushhh-21)
 
 ## 🌟 Show your support
 
